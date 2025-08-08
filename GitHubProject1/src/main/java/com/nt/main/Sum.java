@@ -10,5 +10,11 @@ public class Sum {
 		
 		public float sub(float c,float d) {
 			return c-d;
+			
+	    	
+	    }
+		
+		public double div(float e,float f) {
+			return e/f;
 		}
 	}
